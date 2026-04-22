@@ -33,7 +33,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/YOUR_USERNAME/speaknow.git
+git clone https://github.com/simonxiao2006/speaknow.git
 cd speaknow
 
 # 2. 配置凭证

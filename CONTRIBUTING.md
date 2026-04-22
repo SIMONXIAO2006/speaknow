@@ -24,7 +24,7 @@
 ## 开发环境
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/speaknow.git
+git clone https://github.com/simonxiao2006/speaknow.git
 cd speaknow
 cp .env.example .env   # 填入你的火山引擎凭证
 pip install -r requirements.txt
