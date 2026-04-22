@@ -1,0 +1,8 @@
+sounddevice
+numpy
+requests
+keyboard
+pystray
+Pillow
+websocket-client
+pyperclip
